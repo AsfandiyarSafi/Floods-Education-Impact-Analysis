@@ -136,13 +136,6 @@ Contributions are welcome! Please feel free to:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-**Asfandiyar Safi**  
-Email: safi.asfnd@gmail.com  
-GitHub: [@AsfandiyarSafi](https://github.com/AsfandiyarSafi)
-
-Project Link: [https://github.com/AsfandiyarSafi/FloodImpactAnalysisProject](https://github.com/AsfandiyarSafi/FloodImpactAnalysisProject)
 
 ## Acknowledgments
 
@@ -158,3 +151,10 @@ If you use this analysis in your research, please cite:
 Safi, A. (2025). Flood Impact Analysis Project: Examining Educational Outcomes 
 Following the 2010 Pakistan Floods. GitHub repository.
 ```
+
+## 📫 Contact & Portfolio
+
+- **LinkedIn:** [https://www.linkedin.com/in/asfandiyar-safi-a8680b1bb/](https://www.linkedin.com/in/asfandiyar-safi-a8680b1bb/)  
+- **Email:** safi.asfnd@gmail.com  
+- **Portfolio / GitHub:** [https://github.com/AsfandiyarSafi](https://github.com/AsfandiyarSafi)
+
