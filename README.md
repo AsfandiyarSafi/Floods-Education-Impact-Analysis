@@ -1,6 +1,6 @@
 # Flood Impact Analysis Project
 
-A comprehensive econometric analysis examining the impact of the 2010 Pakistan floods on educational outcomes using difference-in-differences methodology.
+A comprehensive econometric analysis examining the impact of the 2010 Pakistan floods on educational outcomes using difference-in-differences methodology along through analysis tools like Stata and QGIS.
 
 ## Project Overview
 
